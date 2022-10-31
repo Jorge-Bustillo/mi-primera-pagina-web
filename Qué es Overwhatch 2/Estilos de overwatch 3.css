@@ -1,0 +1,28 @@
+body{
+    background-image: url("IMG/Foto\ overwatch\ 2\ D.Va.jpg");
+  } 
+
+  table{
+    text-align: center;
+  }
+
+  td{
+    color:aquamarine;
+  }
+
+  tr{
+    color:aliceblue;
+  }
+
+  div{
+    text-align: right;
+  }
+
+  a{
+    color:aqua;
+  }
+
+  h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue
+  }

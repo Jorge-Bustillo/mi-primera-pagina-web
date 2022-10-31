@@ -1,0 +1,17 @@
+body{
+    background-image: url("IMG/Fondo\ error.jpg");
+  } 
+
+  form{
+    color:aliceblue;
+    text-align:center;
+  }
+
+  p{
+    color:red;
+  }
+
+  a{
+    color:aqua;
+  }
+  

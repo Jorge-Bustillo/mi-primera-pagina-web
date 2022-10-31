@@ -1,0 +1,29 @@
+body{
+    background-image: url("IMG/Fondo\ overwatch\ 2\ Sombra.jpg");
+  } 
+
+  h1{
+    color:red;
+  }
+
+  p{
+    color:greenyellow;
+  }
+
+  ol{
+    color:aliceblue;
+  }
+
+  table{
+    color:red;
+    text-align: center;
+  }
+
+ td,a{
+    color:aqua;
+ }
+
+ div{
+    text-align: right;
+    
+ }

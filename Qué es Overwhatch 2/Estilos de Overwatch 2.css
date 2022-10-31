@@ -1,0 +1,21 @@
+body{
+    background-image: url("IMG/Foto\ overwatch\ 2\ Tarcer\ 1.jpg");
+    
+  } 
+
+  p{
+    color:black;text-align: left;
+  }
+
+  div{
+    text-align: right;
+    
+  }
+
+  #contenedor{
+    background-color: antiquewhite;
+  }
+
+  a{
+    color:blue;
+  }
